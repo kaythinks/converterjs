@@ -1,0 +1,16 @@
+{
+  "name": "@kaythinks/converterjs",
+  "version": "1.0.4",
+  "description": "This package will be used to convert values from one unit to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ConverterJS",
+    "Change",
+    "Units"
+  ],
+  "author": "Kay Odole",
+  "license": "MIT"
+}
